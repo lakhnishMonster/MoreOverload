@@ -1,0 +1,39 @@
+[h1] Do you desire even more Overburn? [/h1]
+Well this mod adds what you're looking for!
+
+Enjoy the 1 new overburn pet available to all the clans and three new Shademancer exclusive overburn units!
+
+[h1] Configurable Companions! [/h1]
+Configuration Options are available to you to modify the following units to your choosing!
+
+Hoka Configs:
+Apply 2-1 Overburn to all enemies.
+6-5-4 Max HP
+
+Rinka HP Configs:
+1-2 Max HP 
+
+Aotaro Configs: 
+4-5 Turn Timer
+8-7-6 Max HP
+3-2 Attack
+
+[h1] Mod Requirements [/h1]
+The Config Manager Mod is required for this mod to work.
+
+To change the configs, there will be a mod config option in the settings menu.
+
+After selecting all of your desired settings, click exit game for the changes to take effect on a new run (existing runs with the previous stats won't update without a new run).
+
+[h1] Troubleshooting [/h1]
+Since this mod did not originally come with mod configs, you may end up crashing if you were previously subscribed.
+
+In the event you are crashing due to this recent update, please try the following.
+
+Option A: Close the game, then try unsubscribing and resubscribing to this mod.
+
+Option B: If that doesn't work, close the game, go to the directory listed below, delete the config.cfg file and restart the game.
+
+Directory: C:\Program Files (x86)\Steam\steamapps\workshop\content\1811990\3316464879
+
+If steam is not download "C:\Program Files (x86)\Steam\", you can alternatively right click the game in steam, go to properties, click installed files, click browse and then navigate backwards to the steamapps folder, click on workshop -> content -> 1811990 -> then a folder with this number 3316464879
